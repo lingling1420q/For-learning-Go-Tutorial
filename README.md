@@ -1,5 +1,6 @@
 ### For-learning-Go-Tutorial
 准备写一本Go的书针对初学者快速入门开发和使用go！
+
 <p align="center">
 <img width="100%" align="center" src="src/images/1.jpg" />
 </p>
@@ -36,6 +37,7 @@ Go是一种编译型语言，一种并发的、带垃圾回收的、快速编译
 代表语言：JavaScript、Python
 
 Go语言的官方编译器被称为gc,包括编译工具5g,6g.8g，链接工具51,61和81以及文档查看工具godoc.
+
 学习一门语言最好的方式就是去实践，那么我们就从go的例子开始实践吧！
 
 * [例子入门](https://github.com/KeKe-Li/For-learning-Go-Tutorial/blob/master/src/example/EX.0.1.md)
@@ -56,18 +58,19 @@ Go语言的官方编译器被称为gc,包括编译工具5g,6g.8g，链接工具5
 * [TiDB的使用](https://github.com/KeKe-Li/For-learning-Go-Tutorial/blob/master/src/chapter15/01.0.md)
 * [Go排序算法及其性能比较](https://github.com/KeKe-Li/For-learning-Go-Tutorial/blob/master/src/chapter16/01.0.md)
 * [Go程序测试](https://github.com/KeKe-Li/For-learning-Go-Tutorial/blob/master/src/chapter17/01.0.md)
+* [Sync.Map解析](https://github.com/KeKe-Li/For-learning-Go-Tutorial/blob/master/src/chapter18/01.0.md)
+* [Sync.WaitGroup解析](https://github.com/KeKe-Li/For-learning-Go-Tutorial/blob/master/src/chapter19/01.0.md)
+* [Go异步抢占式调度](https://github.com/KeKe-Li/For-learning-Go-Tutorial/blob/master/src/chapter20/01.0.md)
 * [Go编程标准和规范](https://github.com/KeKe-Li/For-learning-Go-Tutorial/blob/master/src/spec/01.0.md)
 * [Golang垃圾回收](https://github.com/KeKe-Li/For-learning-Go-Tutorial/blob/master/src/spec/02.0.md)
 * [Go练习案例](https://github.com/KeKe-Li/For-learning-Go-Tutorial/blob/master/src/example/EX.0.2.md)
-* [Sync.Map解析](https://github.com/KeKe-Li/For-learning-Go-Tutorial/blob/master/src/chapter18/01.0.md)
-* [Sync.WaitGroup解析](https://github.com/KeKe-Li/For-learning-Go-Tutorial/blob/master/src/chapter19/01.0.md)
+
 
 ### golang编程
 
 觉得此文章不错，支持我的话可以给我star ，:star:！如果有问题可以加我的微信,也可以加入我们的交流群一起交流golang技术！
 <p align="center">
 <img width="300" align="center" src="https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/images/12.jpg" />
-<img width="300" align="center" src="https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/images/13.jpg" />
 </p>
 
 ### License
